@@ -1,0 +1,16 @@
+Exercici 1. 2/2
+  Està bé, però si utilitzes el round potser millor deixar round(variable,2); així et mostra dos decimals.
+
+Exercici 2. 1.5/2
+  T'has liat a l'hora de calcular la diferències entre les llargades dels noms (s'havia de fer respecte al propi nom).
+
+Exercici 3. 1.75/2
+La nota mitjana de matemàtiques al 3r trimestre havia de ser 7.5
+  
+Exercici 4. 2/2
+
+Jupyter: 1/1
+
+Github: 1/1
+
+Nota final: 9.25/10
